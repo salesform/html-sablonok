@@ -1,0 +1,113 @@
+<style type="text/css">*{font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";}
+ol {
+  margin-bottom: 0;
+  counter-reset: myCounter;
+}
+ol li {
+  margin-bottom: 1rem;
+}
+ol li {
+  list-style: none;
+  padding-left: .5rem;
+}
+ol li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  counter-increment: myCounter;
+  content: counter(myCounter);
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 40px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+</style>
+<div class="row">
+<div class="col-xs-12">
+<h2 align="center">Sajnos a <strong>vásárlásod</strong> valamiért <strong>nem sikerült</strong>...</h2>
+
+<h1 align="center"><small>Ezt általában ez az öt probléma egyike okozza:</small></h1>
+</div>
+</div>
+
+<div class="row">
+<div class="hidden-xs col-md-2">&nbsp;</div>
+
+<div class="col-xs-12 col-md-8">&nbsp;
+<ol>
+	<li><span><strong>ELÍRTAD</strong> - Véletlenül elírtad a bankkártya adatokat, vagy az ellenőrző kódot! Csak kattints lent a nagy zöld Fizetés Újraindítása gombra.</span></li>
+	<li><span><strong>NINCS ELÉG FEDEZET A BANKKÁRTYÁDON</strong> - lépj be a bankodba és ellenőrizd. Lehet vontak a bankszámládról egy olyan tételt, amire nem is számítottál. Fizess be rá pénzt a bankodban vagy utalj rá, majd kattints lent a nagy zöld Fizetés Újraindítása gombra.</span></li>
+	<li><span><strong>TÚLLÉPTED A NAPI KÖLTÉSI LIMITET</strong> - lehet alacsonyra van állítva biztonsági okokból a vásárlási limit, vagy az is lehet, hogy ma már fizettél máshol is és elfogyott a keret. Lépj be a bankodba és emeld meg.</span></li>
+	<li><span><strong>BANKI MEGERŐSÍTÓ KÓD</strong> - a bankok most már rendszeresen küldenek biztonsági kódot sms-ben vagy a mobil appodba. Lehet nem írtad be. Lehet nem kaptad meg. Ha még sosem kaptál, akkor hívd a bankod, mert aktiválnod kell. A lényeg, hogy ismételd meg a fizetést a lenti nagy zöld Fizetés Újraindítása gombra kattintva.</span></li>
+	<li><span><strong>LEHET ELÍRTAD AZ E-MAIL CÍMED?</strong> - biztonsági okokból a bank ellenőrzi a megadott adatokat és ha nem stimmelnek, akkor elutasítja a fizetést. Kattints a nagy zöld gombra és ellenőrizd a bevitt adatokat.</span></li>
+</ol>
+<br />
+&nbsp;</div>
+
+<div class="hidden-xs col-md-2">&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12">
+<p class="text-center"><font size="+2">Kérlek <strong>ellenőrizd</strong>, hogy a fenti problémákat elhárítottad és kattints itt a zöld gombra. Az adataidat nem kell újra megadnod.</font></p>
+&nbsp;
+
+<center>[link]</center>
+<br />
+&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="hidden-xs col-md-1">&nbsp;</div>
+
+<div class="col-xs-12 col-md-5">
+<p class="text-right"><font size="+2"><strong>Remélem sikerül megoldanod a fizetési problémát</strong><br />
+<br />
+Ha valamiért még sem sikerülne továbbra sem bankkártyával vásárolnod, akkor kérlek vedd fel velünk a kapcsolatot és segítünk neked amiben csak tudunk.</font></p>
+</div>
+
+<div class="col-xs-12 col-md-5"><img class="img-responsive" src="https://f.bartfaibalazs.hu/assets/images/image/bartfai-balazs/bartfai_balazs.png" /></div>
+
+<div class="hidden-xs col-md-1">&nbsp;</div>
+</div>
+
+<hr />
+<div class="row">
+<div class="col-xs-12">
+<h3 class="text-center"><strong>Bizonytalan</strong> vagy a <strong>bankkártyás fizetésben</strong>?<br />
+Akkor ezt olvasd el:</h3>
+</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<section class="box">
+<div class="content-body">&nbsp;
+<h4>Biztonságos a bankkártyás fizetés?</h4>
+
+<p>A bankkártyás fizetés biztonságos. A bankkártya adataidat nem ismerjük, és nem is tároljuk. A fizetéskor megadott bankkártya adataid egy titkosított csatornán keresztül, kódoltan kerülnek továbbításra a bankfióknak.<br />
+<br />
+A bankkártyás fizetésnél lehetőséged van <a href="http://www.rendelesiurlap.hu/cikk/bankkartyas-fizetes-a-legbiztonsagosabb-chargeback-eljaras-magyarorszagon" target="_blank">ChargeBack</a>-re, amitől sokkal biztonságosabb így fizetni, mint utalással vagy készpénzzel.</p>
+</div>
+</section>
+</div>
+
+<div class="col-xs-12 col-md-6">
+<section class="box ">
+<div class="content-body">&nbsp;
+<h4>Fogok számlát kapni?</h4>
+
+<p>Igen, elektronikus számlát fogsz kapni a rendelésedről, melyet el fogsz tudni számolni a cégedben. A számla automatikus az általad megadott számlázási adatok alapján kerül kiállításra. Figyelj rá, hogy helyesen és pontosan add meg az adataidat!<br />
+<br />
+A számlát e-mailben kapod meg és nyugodtan kinyomtathatod, ha szeretnéd.</p>
+</div>
+</section>
+</div>
+</div>
+
