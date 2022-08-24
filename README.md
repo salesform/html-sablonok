@@ -27,7 +27,7 @@ Előnézet: https://f.bartfaibalazs.hu/index/koszonjuk/error
 - Kattintasz a rendben gombra és máris készre tudod szerkeszteni
 - Ne felejtsd el menteni és megnézni, hogy milyen lett
 
-# Termék leirés minta CIB
+# Termék leirás minta CIB
 
 ## Használata:
 - A termék létrehozása menüpontban
@@ -37,7 +37,7 @@ Előnézet: https://f.bartfaibalazs.hu/index/koszonjuk/error
 - Kattintasz a rendben gombra és máris készre tudod szerkeszteni
 - Ne felejtsd el menteni és megnézni, hogy milyen lett
 
-# Termék leirés minta SimplePay
+# Termék leirás minta SimplePay
 
 ## Használata:
 - A termék létrehozása menüpontban
