@@ -67,3 +67,14 @@ Előnézet: https://f.bartfaibalazs.hu/index/koszonjuk/error
 - Bemásolod azt a kódot
 - Kattintasz a rendben gombra és máris készre tudod szerkeszteni
 - Ne felejtsd el menteni és megnézni, hogy milyen lett
+
+# Sikertelen bankkártya fizetés e-mail
+
+## Használata:
+- A termék létrehozása menüpontban
+- A fizetés és számlázás fülön
+- Gördítsd le a jobb oldali sikeres fizetés e-mail-ig
+- Kattintasz a forráskód gombra a szerkesztő sávon
+- Bemásolod azt a kódot
+- Kattintasz a rendben gombra és máris készre tudod szerkeszteni
+- Ne felejtsd el menteni és megnézni, hogy milyen lett
