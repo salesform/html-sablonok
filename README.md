@@ -4,7 +4,7 @@ Azok a HTML sablonok, amiket bemásolhatsz a SalesForm szoftveredbe, Forráskód
 # Sikeres fizetés oldal
 Előnézet: https://f.bartfaibalazs.hu/index/koszonjuk/success
 
-# Használata:
+## Használata:
 - A marketing beállítások menüpontban
 - Köszönő oldalt választod
 - Legörgetsz a sikeres fizetés esetén részhez
@@ -17,7 +17,7 @@ Előnézet: https://f.bartfaibalazs.hu/index/koszonjuk/success
 # Sikertelen fizetés oldal
 Előnézet: https://f.bartfaibalazs.hu/index/koszonjuk/error
 
-# Használata:
+## Használata:
 - A marketing beállítások menüpontban
 - Köszönő oldalt választod
 - Legörgetsz a sikertelen fizetés esetén részhez
