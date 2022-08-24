@@ -28,7 +28,16 @@ Előnézet: https://f.bartfaibalazs.hu/index/koszonjuk/error
 - Ne felejtsd el menteni és megnézni, hogy milyen lett
 
 # Termék leirés minta CIB
-Előnézet: https://f.bartfaibalazs.hu/index/koszonjuk/error
+
+## Használata:
+- A termék létrehozása menüpontban
+- Termék/szolgáltatás leírás résznél
+- Kattintasz a forráskód gombra a szerkesztő sávon
+- Bemásolod azt a kódot
+- Kattintasz a rendben gombra és máris készre tudod szerkeszteni
+- Ne felejtsd el menteni és megnézni, hogy milyen lett
+
+# Termék leirés minta SimplePay
 
 ## Használata:
 - A termék létrehozása menüpontban
