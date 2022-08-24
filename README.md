@@ -46,3 +46,13 @@ Előnézet: https://f.bartfaibalazs.hu/index/koszonjuk/error
 - Bemásolod azt a kódot
 - Kattintasz a rendben gombra és máris készre tudod szerkeszteni
 - Ne felejtsd el menteni és megnézni, hogy milyen lett
+
+# BUMP leírás minta
+
+## Használata:
+- A termék létrehozása menüpontban
+- A BUMP ajánlat leírása résznél
+- Kattintasz a forráskód gombra a szerkesztő sávon
+- Bemásolod azt a kódot
+- Kattintasz a rendben gombra és máris készre tudod szerkeszteni
+- Ne felejtsd el menteni és megnézni, hogy milyen lett
