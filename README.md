@@ -78,3 +78,14 @@ Előnézet: https://f.bartfaibalazs.hu/index/koszonjuk/error
 - Bemásolod azt a kódot
 - Kattintasz a rendben gombra és máris készre tudod szerkeszteni
 - Ne felejtsd el menteni és megnézni, hogy milyen lett
+
+- 
+# Darabszám állítás eltűntetése
+A rendelési űrlapon nem jelenik meg a termék darabszám állítási lehetőség. Alapból 1 lesz, de URL paraméterrel a mennyiség növelhetó (QTY=22, ha 22 darab kell)
+
+## Használata:
+- A terméknél kiválasztod a terméket
+- A Termék Adatok fülön a "Termék/szolgáltatás leírás: A rendelési űrlapon jobb oldalon jelenik meg" résznél adod meg a termék leírását
+- A szerkesztőben forráskód nézetre váltasz
+- A legelső sorba beilleszted a kódot és mented a terméket
+- Beágyazott űrlap esetén a beágyazó kód fölé kell bemásolni
