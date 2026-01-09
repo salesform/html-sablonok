@@ -1,0 +1,37 @@
+<style>
+/* ================================
+   DARABSZÁM (QTY) TELJES ELTÜNTETÉSE
+   ================================ */
+
+/* A teljes mennyiség sor eltüntetése a termék táblában */
+#product-data tr:has(.number-spinner) {
+    display: none !important;
+}
+
+/* Biztonsági dupla védelem */
+#product-data .number-spinner {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    overflow: hidden !important;
+}
+
+/* Maga az input mező */
+#qty {
+    display: none !important;
+}
+
+/* +/- gombok */
+.number-spinner a,
+.number-spinner span,
+.number-spinner input {
+    display: none !important;
+}
+
+/* Mobilon is */
+@media (max-width: 768px) {
+    #product-data tr:has(.number-spinner) {
+        display: none !important;
+    }
+}
+</style>
